@@ -142,7 +142,7 @@ try:
 					menu()
 					print(mainOption)
 					break
-df				elif choix.lower() == 'c':
+				elif choix.lower() == 'c':
 					clear()
 					menu()
 					print(profilerOption)
